@@ -59,7 +59,7 @@ export default function GymflexB() {
               eyebrow="Saving"
               title="Up to 40%"
               titleClass="is-green"
-              lines={[['Off standard 12-month rates', 'gf-card-line'], ['Plus up to 12% saved on National Insurance, because it comes out of gross pay.', 'gf-card-note']]}
+              lines={[['Off standard 12-month rates', 'gf-card-line'], ['Plus up to 8% saved on National Insurance, because it comes out of gross pay.', 'gf-card-note']]}
             />
             <InfoCard
               eyebrow="Locations"

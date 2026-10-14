@@ -24,7 +24,7 @@ export const GYMFLEX_FAQS = [
   },
   {
     q: 'How much will actually come out of my pay?',
-    a: 'The membership fee quoted by GymFlex, including any joining or admin fees, is split into monthly deductions from your gross salary, so you also save on National Insurance.',
+    a: 'The membership fee quoted by GymFlex, including any joining or admin fees, is taken in monthly deductions from your gross salary through salary sacrifice, so you save on National Insurance. The membership is a taxable benefit, so you still pay income tax on its value.',
   },
   {
     q: 'Can I add my partner or children?',
