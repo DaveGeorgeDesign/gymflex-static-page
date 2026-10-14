@@ -1,4 +1,4 @@
-# SmartPay GymFlex page prototype
+# SmartPay GymFlex page prototype (gymflex-static-page)
 
 Switchable prototype of the SmartPay GymFlex benefit page for comparative testing.
 
@@ -16,3 +16,5 @@ npm run dev
 ```
 
 Pushing to `main` rebuilds the GitHub Pages site.
+
+Live: https://davegeorgedesign.github.io/gymflex-static-page/
