@@ -44,7 +44,7 @@ export default function GymflexB() {
         <div className="gf-inner gf-hero-inner">
           <div className="gf-hero-text">
             <h1>GymFlex - the fitness benefit that offers you huge savings on gym memberships</h1>
-            <p>Up to 40% off a 12-month membership at over 3,600 gyms, leisure centres and studios. We pay the club upfront, you pay us back monthly through your salary, saving on National Insurance, too.</p>
+            <p>Up to 40% off a 12-month membership at over 3,600 gyms, leisure centres and studios. We pay the club upfront, you pay us back monthly from your net pay.</p>
             <GymflexButton />
           </div>
           <img className="gf-hero-image" src={`${IMG}hero-people.png`} width="480" height="396" alt="" />
@@ -59,7 +59,7 @@ export default function GymflexB() {
               eyebrow="Saving"
               title="Up to 40%"
               titleClass="is-green"
-              lines={[['Off standard 12-month rates', 'gf-card-line'], ['Plus up to 12% saved on National Insurance, because it comes out of gross pay.', 'gf-card-note']]}
+              lines={[['Off standard 12-month rates', 'gf-card-line'], ['Paid back in monthly instalments from your net pay, with nothing to pay upfront.', 'gf-card-note']]}
             />
             <InfoCard
               eyebrow="Locations"
